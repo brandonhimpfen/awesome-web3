@@ -131,6 +131,7 @@
 - [QuickNode](https://www.quicknode.com/) – High-performance blockchain node provider.
 - [Ankr](https://www.ankr.com/) – Decentralized Web3 infrastructure platform.
 - [Pocket Network](https://www.pokt.network/) – Decentralized RPC network.
+- [LYFTIUM](https://www.lyftium.com/) – Ethereum Mainnet JSON-RPC (rpm pricing, `X-Api-Key`, fail-closed 503).
 
 ## Learning Resources
 
